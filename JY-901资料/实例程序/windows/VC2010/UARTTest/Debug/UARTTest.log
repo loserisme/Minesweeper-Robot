@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  Com.cpp
+c:\users\tang\downloads\jy-901资料\实例程序\windows\vc2010\uarttest\com.cpp(216): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\tang\downloads\jy-901资料\实例程序\windows\vc2010\uarttest\com.cpp(208): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(64): note: 参见“_itow”的声明
+c:\users\tang\downloads\jy-901资料\实例程序\windows\vc2010\uarttest\com.cpp(209): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(100): note: 参见“wcscat”的声明
+c:\users\tang\downloads\jy-901资料\实例程序\windows\vc2010\uarttest\com.cpp(268): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  JY901.cpp
+  UARTTest.cpp
+c:\users\tang\downloads\jy-901资料\实例程序\windows\vc2010\uarttest\uarttest.cpp(22): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned char *”
+c:\users\tang\downloads\jy-901资料\实例程序\windows\vc2010\uarttest\uarttest.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\tang\downloads\jy-901资料\实例程序\windows\vc2010\uarttest\uarttest.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
+  UARTTest.vcxproj -> C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\VC2010\Debug\UARTTest.exe

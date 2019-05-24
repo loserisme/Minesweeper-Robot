@@ -1,0 +1,10 @@
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\bin\Release\MiniIMU.exe
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\bin\Release\MiniIMU.pdb
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\obj\x86\Release\MiniIMU.csprojAssemblyReference.cache
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\obj\x86\Release\MiniIMU.csproj.ResolveComReference.cache
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\obj\x86\Release\MiniIMU.Form1.resources
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\obj\x86\Release\MiniIMU.Properties.Resources.resources
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\obj\x86\Release\MiniIMU.csproj.GenerateResource.cache
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\obj\x86\Release\MiniIMU.csproj.CoreCompileInputs.cache
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\obj\x86\Release\MiniIMU.exe
+C:\Users\Tang\Downloads\JY-901资料\实例程序\windows\C#\obj\x86\Release\MiniIMU.pdb

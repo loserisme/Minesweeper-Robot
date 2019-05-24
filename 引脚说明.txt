@@ -1,0 +1,20 @@
+接线说明
+L298N 双H桥
+IN1接7    IN2接8    IN3接9     IN4接10
+
+mpu9250 （JY901）
+IIC通信
+SDA接SDA   SCL接SCL
+
+超声波（HCSR04）
+Echo接11      Trig接12
+
+蓝牙模块
+RX接TX1   TX接RX1 
+
+RFID模块
+RX接TX3   TX接RX3
+
+
+
+
